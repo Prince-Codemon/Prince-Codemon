@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working MERN Stack<br>👯 I’m looking to collaborate on MERN Projects<br>🌱 I’m currently learning MERN and Pursuing B.Tech CSE<br>⚡ Hustler n' Explorer
+🔭 I’m currently working on MERN Stack<br>👯 I’m looking to collaborate on MERN Projects<br>🌱 I’m currently learning MERN and Pursuing B.Tech CSE<br>⚡ Hustler n' Explorer
 
 
 # 💻 Tech Stack:
