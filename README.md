@@ -13,4 +13,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Prince-Codemon&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=prince&label=Profile%20Views&icon=6&pretty=true)](https://visitcount.itsvg.in)
