@@ -1,7 +1,9 @@
 
-<a href="https://www.princecodemon.live" align='center' width='100%'>
-                <img src="https://miro.medium.com/max/828/0*FGD6BUzzZs1VJLuY.gif"  alt="" width='100%'>
-              </a>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+%F0%9F%91%8B;This+is+PRINCE+CODEMON;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <h1 align="center">Hi 👋, I'm Prince Codemon</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
    <image src="https://camo.githubusercontent.com/db0a55a9e897894470b2e1b8a934da5c32545cdce892ebb9424a4a6b1ef64267/68747470733a2f2f7777772e64616d696573746563686e6f6c6f676965732e636f6d2f696d672f70726f6772616d6d65722e676966" align='right' width="400" height="300"></image>
